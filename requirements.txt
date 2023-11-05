@@ -1,0 +1,8 @@
+ipykernel
+ipython
+jupyter
+jupyter-client
+jupyter-core
+matplotlib
+matplotlib-inline
+scikit-learn
